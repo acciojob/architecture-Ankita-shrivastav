@@ -1,7 +1,18 @@
-img{
-	width:400px;
+.img{
+	width:200px;
 	height:220px;
 }
 table{
 	border:1px solid;
+	border-collapse:collapse;
+	margin:0 auto;
+	width:1100px;
+}
+th,td{
+	padding:10px;
+	text-align:center;
+	border:1px solid black;
+}
+.text{
+	width:600px;
 }
